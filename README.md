@@ -1,2 +1,2 @@
 # catswithguns
-catsb with guns repo
+cats with guns repo
